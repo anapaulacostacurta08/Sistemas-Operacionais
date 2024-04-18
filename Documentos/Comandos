@@ -1,0 +1,49 @@
+Utilitários do UNIX (Lista resumida com breve descrição)
+
+Ficheiros e directórios
+cat - concatenar e mostrar ficheiros
+cd - mudar de directório
+chgrp - mudar o grupo proprietário
+chmod - mudar permissões
+cmp - comparação de ficheiros byte-a-byte
+cp - copiar ficheiros
+diff - mostrar as diferenças entre dois ficheiros (linha a linha)
+du - mostrar a ocupação do disco por directórios e/ou ficheiros
+file - determinar o tipo de um ficheiro
+find - procurar ficheiros
+grep - procurar uma "string" ou expressão regular em ficheiros
+ln - criar "symbolic" ou "hard links" para ficheiros 
+ls - listar o conteúdo de um directório
+mkdir - criar um directório
+more - visualizar um ficheiro texto
+mv - mover ou renomear ficheiros
+pwd - mostra o caminho absoluto do directório actual
+rm - remove ficheiros ou directórios
+rmdir - remove directórios
+sort - ordenar linhas
+tail - mostrar a última parte de um ficheiro
+tar - criar arquivo de ficheiros e adicionar e extrair ficheiros do mesmo
+touch - actualiza o registo do tempo de acesso e modificação de um ficheiro
+wc - conta linhas, palavras e caracteres de um ficheiro
+Informação
+man - mostra páginas do manual
+Várias
+cal - mostra calendário
+date - mostra/ajusta a data
+echo - mostra os argumentos no "standard output"
+Acesso e controlo de processos
+login - entrar no sistema
+passwd - alterar a palavra passe
+ps - mostra o estado dos processos que correm na máquina
+sh - shell
+sleep - suspende a execução por um dado tempo
+su - substituição do utilizador por outro
+Informação de utilizadores e comunicação
+finger - informação sobre utilizadores
+groups - informação sobre grupos
+last - últimos logins
+talk - comunicar com outro utilizador
+users - lista resumida dos utilizadores ligados à máquina
+write - enviar mensagens a outros utilizadores em tempo real
+who - identifica o utilizador
+whoami - mostra o "username" do utilizador
