@@ -5,6 +5,7 @@
 * sistema getpid()                                                 *
 * Um programa pode obter o PID de seu pai executando a chamada     *
 * de sistema getppid()                                             *
+*******************************************************************/
 
 #include <stdio.h>
 #include <unistd.h>
